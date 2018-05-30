@@ -1,0 +1,10 @@
+{
+  "development": {
+    "port": 19528,
+    "debugger": true
+  },
+  "production": {
+    "port": 19528,
+    "debugger": false
+  }
+}
